@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KingMob4313
+- 👋 Hi, I’m @KingMob4313! (he/him)
 - 👀 I’m interested in my own weird little projects of personal utility.
 - 🌱 I’m currently learning ML & Python because neither can be avoided these days and assembly because I am a hacker at heart.
 - 💞️ I’m looking to collaborate on rom hacks and nothing else.
